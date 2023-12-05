@@ -9,25 +9,44 @@
     8. 인 게임 사진 예쁜거 컷 몇 개 넣고
     9. 오른쪽 상단에 유튜브 영상 링크 올리기
 -->
-# The Last Job
 
+## 2023 KHU Game Engine Basics Team 4
+
+***
+# The Last Job
+<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="2000" height="300">
+
+***
+
+### 목차
+
+  1. [About This Game](#1-about-this-game)
+  2. [How to download](#2-how-to-download)
+  3. [How to play](#3-how-to-play)
+
+***
 ## 1. About this game
 
->  게임에 대한 설명
->
-> 
+    1
+    2
+    3
 
+***
 
 ## 2. How to download
 
-- **다운로드:**
 [DOWNLOAD][externallink]
 
-[externallink]: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+[externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-- **Git Clone:**
-  ```bash
-  git clone [깃허브 레포지토리 주소]
-  cd [다운로드 받은 폴더]
+***
 
 ## 3. How to play
+
+***
+### 플레이
+|조작키|영상|설명|
+| :---:  | :---:  | :---:  |
+| WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
+| WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
+| WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
