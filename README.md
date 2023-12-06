@@ -23,7 +23,7 @@
   1. [About This Game](#1-about-this-game)
   2. [How to download](#2-how-to-download)
   3. [How to play](#3-how-to-play)
-  4. [credits](#4-credits)
+  4. [Credits](#4-credits)
 
 ***
 ## 1. About this game
