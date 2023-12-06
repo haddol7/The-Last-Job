@@ -29,11 +29,20 @@
 ***
 ## 1. About this game
 
-    1. 2030년, 파마스와 에르고도라는 두 국가 간의 무력 충돌이 발생하고 결국 전쟁이 발발하게 된다. 파마스는 에르고도의 주 에너지 개발 시설인 원자력 발전소에 전투 로봇을 파견하여 원전을 핵 무기화하도록 원전 과부화를 촉발하였고 이를 막기 위해 에르고도에서는 핵심 원전 총괄 기술자들을 파견하게 된다. 
-    2. 플레이어는 원전 시설의 손상된 전력을 복구하고 제어 시스템을 안정화 해야 한다. 원전 내부 시설을 장악하고 있는 에르고도의 전투 로봇들을 피하거나 무력화 시켜 목표를 달성하고 무사히 탈출하자. 
-    3. 원자력 발전 시설이 전쟁으로 인해 어느정도 손상된 만큼 특정 구역은 접근하기에는 위험한 공간이 존재한다. 플레이어는 가지고 있는 가이거 계수기를 수시로 확인하여 위험으로부터 노출되지 않도록 각별히 조심해야 하며 제한된 필터 개수와 플레이어의 불안감 지수를 잘 조절해야 한다.
+### Breif Game Story And System
 
-***
+<div align="center">
+    In 2030, armed conflict between the two countries, 'Pamas' and 'Ergodo', eventually led to war.<br/> 
+    Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy development facility, triggering nuclear overuse to turn nuclear power plants into nuclear weapons. <br/> To prevent this, Ergodo will send key nuclear power plant general engineers. <br/> 
+    The player shall restore damaged power at the plant facility and stabilize the control system. <br/> 
+</div>
+    
+### Purpose of the Game
+> Avoid or neutralize Ergo's combat robots, which invaded the nuclear power plant's internal facilities, achieve their goals and escape safely.
+> As nuclear power facilities have been damaged to some extent by the war, certain areas have dangerous spaces to access.
+> Players must frequently check their own Geiger counter to be extra careful not to be exposed to danger and to control the limited number of filters and the player's anxiety index.
+
+
 
 ## 2. How To download
 
@@ -42,12 +51,14 @@
 [DOWNLOAD][externallink]
 
 [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+***
 
 ### Download Middle Quality Version
 
 [DOWNLOAD][externallink]
 
 [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+***
 
 ### Download Low Quality Version
 
@@ -59,13 +70,36 @@
 
 ## 3. How To play
 
-***
-### 플레이
-|조작키|영상|설명|
+
+### Player Control
+|Control|Video|Inscription|
 | :---:  | :---:  | :---:  |
-| WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
-| WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
-| WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
+| Movement | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can Control your player by WASD, SpaceBar, Shift, Ctrl, LMB, RMB 
+| Giger Check | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can Check the level of the radiation of the zone which you currently stand
+| Throwing Objects | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can Thorw your Emp that you have to neutralize Ememy Or rock to make some interruption.
+
+### Player Sub System
+|Parameters|Video|Inscription|
+| :---:  | :---:  | :---:  |
+| Anxiety | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you Check Your Giger Counter Currently, it makes your anxiety higher which disturb your sight and movement  
+| Radioactive Level | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You Can Check your radiation level by pressing 'Tab'. It pops out the Giger Counter on your hand
+| Stamina | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you press shift to run, the stamina will decrease that it shows to your UI Screen.
+| Filter | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | It will Decrease the level dynamically of which you stay on the different radiation level. (Game over if you loss your filter entirly)
+
+### Enemy System
+|State|Video|Inscription|
+| :---:  | :---:  | :---:  |
+| Suspicious | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the enemy has visualiation about player or hearing noise, it makes it suspecious about the situation and inspect to the area which the noise came from.
+| Detected(Chasing) | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the suspicious state maintained about certain time, it will change to Chasing mode and follows the player to eleminate.
+| Get Caught | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you get caught, it will knock down and gameover.
+
+### Target Object(Puzzle System)
+|Puzzle|Video|Inscription|
+| :---:  | :---:  | :---:  |
+| Electric Room | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You have to restart the electricity to activate the system by connection about sender&receiver.
+| Control Room | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can flush the water which sinked the storage.
+| Mechanical Room | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can stablize the water pump pressure by combination of the lever  
+| Storage | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | Master Battery source is placed in the storage to shut down the nucelear facility. 
 
 ***
 
@@ -78,6 +112,13 @@
 
 ***
 
-## 5. Credits
+## 5. Credit
+These are people who made our game project 
+
+1. Kunwoo Kim(김건우), SFX, Map Edit, Orchestrator
+2. Jihoo kim(김지후), Game System, Map Edit, Puzzle 
+3. BIN KAMISAN MUHAMAD ADLAN(아드란), AI System, 
+4. Dagyeong Jeon(전다경) Game System, Sub System, UI, Core Developer
+5. Daejin Ha(하대진), VFX, Map Edit, Visualization, 
 
 
