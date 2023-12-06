@@ -109,7 +109,9 @@ Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy 
 
 ***
 <div align="center"> 
+    
 ## 4. Preview
+    
 </div>
 
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
