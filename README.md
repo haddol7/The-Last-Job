@@ -129,10 +129,10 @@ Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy 
 
 These are people who made our game project 
 
- * __Kunwoo Kim(김건우)__ SFX, Map Edit, Orchestrator
+ * __Kunwoo Kim(김건우)__ SFX, Map Edit, Detail Test ,Orchestrator
  * __Jihoo kim(김지후)__ Game System, Map Edit, Puzzle editor
  * __BIN KAMISAN MUHAMAD ADLAN(아드란)__ AI System, Map Edit, Puzzle editor
  * __Dagyeong Jeon(전다경)__ Game System, Sub System, UI, Core Developer
- * __Daejin Ha(하대진)__, VFX, Map Edit, Graphics, Visualization
+ * __Daejin Ha(하대진)__, VFX, Map Edit, Graphics, Visualization editor
 
 
