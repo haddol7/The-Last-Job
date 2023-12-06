@@ -23,6 +23,7 @@
   1. [About This Game](#1-about-this-game)
   2. [How to download](#2-how-to-download)
   3. [How to play](#3-how-to-play)
+  4. [credits](#4-credits)
 
 ***
 ## 1. About this game
@@ -50,3 +51,9 @@
 | WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
 | WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
 | WASD | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | 움직입니다
+
+***
+
+## 4. Credits
+
+
