@@ -24,52 +24,58 @@
   2. [How to download](#2-how-to-download)
   3. [How to play](#3-how-to-play)
   4. [Preview](#4-Preview)
-  5. [Credits](#4-credits)
+  5. [Credit](#5-Credit)
 
 ***
+<div align="center"> 
+
 ## 1. About this game
+
+</div>
 
 ### Breif Game Story And System
 
-<div align="center">
-    In 2030, armed conflict between the two countries, 'Pamas' and 'Ergodo', eventually led to war.<br/> 
-    Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy development facility, triggering nuclear overuse to turn nuclear power plants into nuclear weapons. <br/> To prevent this, Ergodo will send key nuclear power plant general engineers. <br/> 
-    The player shall restore damaged power at the plant facility and stabilize the control system. <br/> 
-</div>
+
+In 2030, armed conflict between the two countries, 'Pamas' and 'Ergodo', eventually led to war.<br/> 
+Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy development facility, triggering nuclear overuse to turn nuclear power plants into nuclear weapons. <br/> To prevent this, Ergodo will send key nuclear power plant general engineers. The player shall restore damaged power at the plant facility and stabilize the control system. <br/> 
+
     
 ### Purpose of the Game
-> Avoid or neutralize Ergo's combat robots, which invaded the nuclear power plant's internal facilities, achieve their goals and escape safely.
-> As nuclear power facilities have been damaged to some extent by the war, certain areas have dangerous spaces to access.
-> Players must frequently check their own Geiger counter to be extra careful not to be exposed to danger and to control the limited number of filters and the player's anxiety index.
+* Avoid or neutralize Ergo's combat robots, which invaded the nuclear power plant's internal facilities, achieve their goals and escape safely.
+* As nuclear power facilities have been damaged to some extent by the war, certain areas have dangerous spaces to access.
+* Players must frequently check their own Geiger counter to be extra careful not to be exposed to danger and to control the limited number of filters and the player's anxiety index.
 
-
+<div align="center"> 
 
 ## 2. How To download
+</div>
 
 ### Download High Quality Version
 
-[DOWNLOAD][externallink]
+* [DOWNLOAD][externallink]
 
-[externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ***
 
 ### Download Middle Quality Version
 
-[DOWNLOAD][externallink]
+* [DOWNLOAD][externallink]
 
-[externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ***
 
 ### Download Low Quality Version
 
-[DOWNLOAD][externallink]
+* [DOWNLOAD][externallink]
 
-[externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 ***
-
+<div align="center"> 
+    
 ## 3. How To play
 
+</div>
 
 ### Player Control
 |Control|Video|Inscription|
@@ -102,8 +108,10 @@
 | Storage | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | Master Battery source is placed in the storage to shut down the nucelear facility. 
 
 ***
-
+<div align="center"> 
 ## 4. Preview
+</div>
+
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
@@ -111,14 +119,18 @@
 
 
 ***
-
+<div align="center"> 
+    
 ## 5. Credit
+
+</div>
+
 These are people who made our game project 
 
-1. Kunwoo Kim(김건우), SFX, Map Edit, Orchestrator
-2. Jihoo kim(김지후), Game System, Map Edit, Puzzle 
-3. BIN KAMISAN MUHAMAD ADLAN(아드란), AI System, 
-4. Dagyeong Jeon(전다경) Game System, Sub System, UI, Core Developer
-5. Daejin Ha(하대진), VFX, Map Edit, Visualization, 
+ * __Kunwoo Kim(김건우)__ SFX, Map Edit, Orchestrator
+ * __Jihoo kim(김지후)__ Game System, Map Edit, Puzzle editor
+ * __BIN KAMISAN MUHAMAD ADLAN(아드란)__ AI System, Map Edit, Puzzle editor
+ * __Dagyeong Jeon(전다경)__ Game System, Sub System, UI, Core Developer
+ * __Daejin Ha(하대진)__, VFX, Map Edit, Graphics, Visualization
 
 
