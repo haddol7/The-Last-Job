@@ -23,7 +23,8 @@
   1. [About This Game](#1-about-this-game)
   2. [How to download](#2-how-to-download)
   3. [How to play](#3-how-to-play)
-  4. [Credits](#4-credits)
+  4. [Preview](#4-Preview)
+  5. [Credits](#4-credits)
 
 ***
 ## 1. About this game
@@ -54,6 +55,15 @@
 
 ***
 
-## 4. Credits
+## 4. Preview
+<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
+<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
+<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
+<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
+
+
+***
+
+## 5. Credits
 
 
