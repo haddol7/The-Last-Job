@@ -35,7 +35,21 @@
 
 ***
 
-## 2. How to download
+## 2. How To download
+
+###Download High Quality Version
+
+[DOWNLOAD][externallink]
+
+[externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+###Download Middle Quality Version
+
+[DOWNLOAD][externallink]
+
+[externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+###Download Low Quality Version
 
 [DOWNLOAD][externallink]
 
@@ -43,7 +57,7 @@
 
 ***
 
-## 3. How to play
+## 3. How To play
 
 ***
 ### 플레이
