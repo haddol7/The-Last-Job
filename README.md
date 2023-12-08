@@ -142,7 +142,7 @@ You can watch the preview by clicking the link below.
 ***
 <div align="center"> 
 
-## 5. Cut Scene
+## 5. ScreenShot
 
 </div>
 
