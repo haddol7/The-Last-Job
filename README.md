@@ -13,18 +13,23 @@
 ## 2023 KHU Game Engine Basics Team 4
 
 ***
+<div align="center"> 
+    
 # The Last Job
+
+</div>
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="2000" height="300">
 
 ***
 
-### 목차
+### 
 
   1. [About This Game](#1-about-this-game)
   2. [How to download](#2-how-to-download)
   3. [How to play](#3-how-to-play)
   4. [Preview](#4-Preview)
-  5. [Credit](#5-Credit)
+  5. [Cut Scene](#4-Cut-Scene)
+  6. [Credit](#5-Credit)
 
 ***
 <div align="center"> 
@@ -35,10 +40,12 @@
 
 ### Breif Game Story And System
 
-
+<div align="center"> 
 In 2030, armed conflict between the two countries, 'Pamas' and 'Ergodo', eventually led to war.<br/> 
-Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy development facility, triggering nuclear overuse to turn nuclear power plants into nuclear weapons. <br/> To prevent this, Ergodo will send key nuclear power plant general engineers. The player shall restore damaged power at the plant facility and stabilize the control system. <br/> 
+Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy development facility, <br/> triggering nuclear overuse to turn nuclear power plants into nuclear weapons.<br/> To prevent this, Ergodo will send key nuclear power plant general engineers.<br/> 
+The player shall restore damaged power at the plant facility and stabilize the control system. 
 
+</div>
     
 ### Purpose of the Game
 * Avoid or neutralize Ergo's combat robots, which invaded the nuclear power plant's internal facilities, achieve their goals and escape safely.
@@ -48,6 +55,9 @@ Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy 
 <div align="center"> 
 
 ## 2. How To download
+</div>
+<div align="center"> 
+You can download it by clicking the link below. Download a version that meets your computer's specifications.
 </div>
 
 ### Download High Quality Version
@@ -80,15 +90,15 @@ Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy 
 ### Player Control
 |Control|Video|Inscription|
 | :---:  | :---:  | :---:  |
-| Movement | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can Control your player by WASD, SpaceBar, Shift, Ctrl, LMB, RMB 
-| Giger Check | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can Check the level of the radiation of the zone which you currently stand
-| Throwing Objects | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can Thorw your Emp that you have to neutralize Ememy Or rock to make some interruption.
+| Movement | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can control your player by 'WASD', SpaceBar, Shift, Ctrl, And Mouse movement.
+| Giger Check | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can check the level of the radiation of the zone which you currently stand.
+| Throwing Objects | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can thorw your Emp that you have to neutralize ememy or grab rock and throw to make some interruption.
 
 ### Player Sub System
 |Parameters|Video|Inscription|
 | :---:  | :---:  | :---:  |
-| Anxiety | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you Check Your Giger Counter Currently, it makes your anxiety higher which disturb your sight and movement  
-| Radioactive Level | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You Can Check your radiation level by pressing 'Tab'. It pops out the Giger Counter on your hand
+| Radioactive Level | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can check your radiation level by pressing 'Tab'. It pops out the Giger Counter on your hand
+| Anxiety | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you check Your giger counter , it makes your anxiety higher according to the level of the radiation level which disturb your sight and movement  
 | Stamina | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you press shift to run, the stamina will decrease that it shows to your UI Screen.
 | Filter | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | It will Decrease the level dynamically of which you stay on the different radiation level. (Game over if you loss your filter entirly)
 
@@ -96,8 +106,8 @@ Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy 
 |State|Video|Inscription|
 | :---:  | :---:  | :---:  |
 | Suspicious | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the enemy has visualiation about player or hearing noise, it makes it suspecious about the situation and inspect to the area which the noise came from.
-| Detected(Chasing) | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the suspicious state maintained about certain time, it will change to Chasing mode and follows the player to eleminate.
-| Get Caught | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you get caught, it will knock down and gameover.
+| Detected   (Chasing) | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the suspicious state maintained about certain time, it will change to Chasing mode and follows the player to eleminate.
+|    Get Caught    | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you get caught, it will knock down and gameover.
 
 ### Target Object(Puzzle System)
 |Puzzle|Video|Inscription|
@@ -114,6 +124,23 @@ Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy 
     
 </div>
 
+<div align="center"> 
+You can watch the preview by clicking the link below.
+
+### [watch Preview][externallink]
+
+</div>
+
+ [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+
+***
+<div align="center"> 
+
+## 5. Cut Scene
+
+</div>
+
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1200">
@@ -123,16 +150,16 @@ Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy 
 ***
 <div align="center"> 
     
-## 5. Credit
+## 6. Credit
 
 </div>
 
 These are people who made our game project 
 
- * __Kunwoo Kim(김건우)__ SFX, Map Edit, Detail Test ,Orchestrator
- * __Jihoo kim(김지후)__ Game System, Map Edit, Puzzle editor
- * __BIN KAMISAN MUHAMAD ADLAN(아드란)__ AI System, Map Edit, Puzzle editor
- * __Dagyeong Jeon(전다경)__ Game System, Sub System, UI, Core Developer
- * __Daejin Ha(하대진)__, VFX, Map Edit, Graphics, Visualization editor
+ * __Kunwoo Kim(김건우)__  - SFX, Map Edit, Detail Test ,Orchestrator
+ * __Jihoo kim(김지후)__  - Game System, Map Edit, Puzzle editor
+ * __BIN KAMISAN MUHAMAD ADLAN(아드란)__ -  AI System, Map Edit, Puzzle editor
+ * __Dagyeong Jeon(전다경)__ -  Game System, Sub System, UI, Core Developer
+ * __Daejin Ha(하대진)__  - VFX, Map Edit, Graphics, Visualization editor
 
 
