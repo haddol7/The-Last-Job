@@ -21,15 +21,20 @@
 <img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="2000" height="300">
 
 ***
+<div align="center"> 
+    
+## Index
 
-### 
+</div>
 
-  1. [About This Game](#1-about-this-game)
-  2. [How to download](#2-how-to-download)
-  3. [How to play](#3-how-to-play)
-  4. [Preview](#4-Preview)
-  5. [Cut Scene](#4-Cut-Scene)
-  6. [Credit](#5-Credit)
+
+
+  #### 1. [About This Game](#1-about-this-game)
+  #### 2. [How to download](#2-how-to-download)
+  #### 3. [How to play](#3-how-to-play)
+  #### 4. [Preview](#4-Preview)
+  #### 5. [Cut Scene](#5-Cut-Scene)
+  #### 6. [Credit](#6-Credit)
 
 ***
 <div align="center"> 
