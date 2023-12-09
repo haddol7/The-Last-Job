@@ -16,9 +16,10 @@
 <div align="center"> 
     
 # The Last Job
+![1233](https://github.com/haddol7/The-Last-Job/assets/80435250/6245d33d-d094-41f4-964d-d7fe1cc4fd89)
 
 </div>
-<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="2000" height="300">
+
 
 ***
 <div align="center"> 
