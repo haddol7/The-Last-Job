@@ -31,22 +31,22 @@
 
 <div align="center"> 
 
-In World War III, a terrorist attack by an enemy nation detonated the central radioactive research complex.
-
-Since the aftermath of the detonation might cause following consequencial explosions, the nation dispatched military robots applied with radiation-hardened techniques to remove unstable factors.
-
-However, the radioactive fallout was much stronger than expectations. The communication with the robots has been lost, now they are out of control. 
-
-You are one of the agents who has volunteered to solve this situation, as a researcher who once participated in the design of the complex.
-
-Solve the given missions to retrieve safety, and escape with secure.
+> In World War III, a terrorist attack by an enemy nation detonated the central radioactive research complex.
+>
+> Since the aftermath of the detonation might cause following consequencial explosions, the nation dispatched military robots applied with radiation-hardened techniques to remove unstable factors.
+> 
+> However, the radioactive fallout was much stronger than expectations. The communication with the robots has been lost, now they are out of control. 
+> 
+> You are one of the agents who has volunteered to solve this situation, as a researcher who once participated in the design of the complex.
+>
+> Solve the given missions to retrieve safety, and escape with secure.
 
 </div>
     
 ### Notes/Tips
-* You don't belong to the army, the robots would not identify you as an ally. Avoid or neutralize them.
-* You have access to most of core facilities of the complex. Try utilizing inner facilities if you find some.
-* Radioactive fallout spreads throughout the sector. Check the geiger counter as the magnitude varies from area to area.
+> * You don't belong to the army, the robots would not identify you as an ally. Avoid or neutralize them.
+> * You have access to most of core facilities of the complex. Try utilizing inner facilities if you find some.
+> * Radioactive fallout spreads throughout the sector. Check the geiger counter as the magnitude varies from area to area.
 
 <div align="center"> 
 
@@ -56,7 +56,7 @@ You can download it by clicking the link below. Download a version that meets yo
 
 [DOWNLOAD][externallink] (4.9GB)
 
- [externallink]: https://drive.google.com/file/d/1AQ9QKTvtI89i2wXvd2Ra6T2L7fDs3cAl/view?usp=sharing
+[externallink]: https://drive.google.com/file/d/1AQ9QKTvtI89i2wXvd2Ra6T2L7fDs3cAl/view?usp=sharing
 
 </div>
 
@@ -88,7 +88,6 @@ You can download it by clicking the link below. Download a version that meets yo
 |    Get Caught    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7493192-e6a4-4dae-b464-7cf9e24a9362" width = "500" height = "250"> | If you get caught, it will knock down and gameover.
 |    Filter Death    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/7e40ff76-c5ff-442a-a105-1a561f682458" width = "500" height = "250"> | If you exhausted your filter, you would be fall in death by few second.
 
-
 ### Target Object(Puzzle System)
 |Puzzle|Video|Inscription|
 | :---:  | :---:  | :---:  |
@@ -106,14 +105,11 @@ You can download it by clicking the link below. Download a version that meets yo
 </div>
 
 <div align="center"> 
-You can watch the preview by clicking the link below.
 
-### [watch Preview][externallink]
+> You can watch the preview by clicking the thumbnail.
 
-[externallink]: https://www.youtube.com/watch?v=dw-cw-3HdYo
-
+[![Thumbnail](https://github.com/haddol7/The-Last-Job/assets/64568235/e69e3b58-bf7a-4a32-a286-d33bfcdb0027)](https://www.youtube.com/watch?v=dw-cw-3HdYo)
 </div>
-
 
 ***
 <div align="center"> 
