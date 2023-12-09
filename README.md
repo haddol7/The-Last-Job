@@ -100,8 +100,8 @@ You can download it by clicking the link below. Download a version that meets yo
 ### Threating System
 |State|Video|Inscription|
 | :---:  | :---:  | :---:  |
-| Suspicious | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the enemy has visualiation about player or hearing noise, it makes it suspecious about the situation and inspect to the area which the noise came from.
-| Detected   (Chasing) | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the suspicious state maintained about certain time, it will change to Chasing mode and follows the player to eleminate.
+| Suspicious | ![Suspicious](https://github.com/haddol7/The-Last-Job/assets/64568235/24607089-695e-4a9a-9edc-ab27ddc918d7) | If the enemy has visualiation about player or hearing noise, it makes it suspecious about the situation and inspect to the area which the noise came from.
+| Detected   (Chasing) | ![Detected](https://github.com/haddol7/The-Last-Job/assets/64568235/b2367f48-2831-4f06-920e-f2ea6401f504) | If the suspicious state maintained about certain time, it will change to Chasing mode and follows the player to eleminate.
 |    Get Caught    | ![Get Caught](https://github.com/haddol7/The-Last-Job/assets/64568235/c7493192-e6a4-4dae-b464-7cf9e24a9362) | If you get caught, it will knock down and gameover.
 |    Filter Death    |  ![Filter Death](https://github.com/haddol7/The-Last-Job/assets/64568235/7e40ff76-c5ff-442a-a105-1a561f682458) | If you exhausted your filter, you would be fall in death by few second.
 
