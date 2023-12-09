@@ -60,7 +60,7 @@ You can download it by clicking the link below. Download a version that meets yo
 
 * [DOWNLOAD][externallink] (4.9GB)
 
- [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ [externallink]: https://drive.google.com/file/d/1K2q6YFXpTWRrWldOGsUHfTuuF7l_6iP3/view?usp=drive_link
 ***
 
 ### Download Middle Quality Version
@@ -74,8 +74,7 @@ You can download it by clicking the link below. Download a version that meets yo
 
 * [DOWNLOAD][externallink] (4.7GB)
 
- [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-
+ [externallink]: https://drive.google.com/file/d/1Cppc_uRXHH__Mpj4B0pJKxufPw-Iw43d/view?usp=drive_link
 ***
 <div align="center"> 
     
