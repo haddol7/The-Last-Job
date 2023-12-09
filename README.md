@@ -46,16 +46,23 @@
 ### Breif Game Story And System
 
 <div align="center"> 
-In 2030, armed conflict between the two countries, 'Pamas' and 'Ergodo', eventually led to war.<br/> 
-Pamas dispatched combat robots to the nuclear power plant, Ergodo's main energy development facility, <br/> triggering nuclear overuse to turn nuclear power plants into nuclear weapons.<br/> To prevent this, Ergodo will send key nuclear power plant general engineers.<br/> 
-The player shall restore damaged power at the plant facility and stabilize the control system. 
+
+In World War III, a terrorist attack by an enemy nation detonated the central radioactive research complex.
+
+Since the aftermath of the detonation might cause following consequencial explosions, the nation dispatched military robots applied with radiation-hardened techniques to remove unstable factors.
+
+However, the radioactive fallout was much stronger than expectations. The communication with the robots has been lost, now they are out of control. 
+
+You are one of the agents who has volunteered to solve this situation, as a researcher who once participated in the design of the complex.
+
+Solve the given missions to retrieve safety, and escape with secure.
 
 </div>
     
-### Purpose of the Game
-* Avoid or neutralize Ergo's combat robots, which invaded the nuclear power plant's internal facilities, achieve their goals and escape safely.
-* As nuclear power facilities have been damaged to some extent by the war, certain areas have dangerous spaces to access.
-* Players must frequently check their own Geiger counter to be extra careful not to be exposed to danger and to control the limited number of filters and the player's anxiety index.
+### Notes/Tips
+* You don't belong to the army, the robots would not identify you as an ally. Avoid or neutralize them.
+* You have access to most of core facilities of the complex. Try utilizing inner facilities if you find some.
+* Radioactive fallout spreads throughout the sector. Check the geiger counter as the magnitude varies from area to area.
 
 <div align="center"> 
 
