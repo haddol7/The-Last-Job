@@ -114,12 +114,14 @@ You can download it by clicking the link below. Download a version that meets yo
 | Stamina | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you press shift to run, the stamina will decrease that it shows to your UI Screen.
 | Filter | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | It will Decrease the level dynamically of which you stay on the different radiation level. (Game over if you loss your filter entirly)
 
-### Enemy System
+### Threating System
 |State|Video|Inscription|
 | :---:  | :---:  | :---:  |
 | Suspicious | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the enemy has visualiation about player or hearing noise, it makes it suspecious about the situation and inspect to the area which the noise came from.
 | Detected   (Chasing) | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If the suspicious state maintained about certain time, it will change to Chasing mode and follows the player to eleminate.
 |    Get Caught    | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you get caught, it will knock down and gameover.
+|    Filter Death    | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | If you exhausted your filter, you would be fall in death by few second.
+
 
 ### Target Object(Puzzle System)
 |Puzzle|Video|Inscription|
@@ -128,6 +130,7 @@ You can download it by clicking the link below. Download a version that meets yo
 | Control Room | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can flush the water which sinked the storage.
 | Mechanical Room | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can stablize the water pump pressure by combination of the lever  
 | Storage | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | Master Battery source is placed in the storage to shut down the nucelear facility. 
+| Restarea | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can get some items which you need for survive.
 
 ***
 <div align="center"> 
