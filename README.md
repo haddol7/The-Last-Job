@@ -110,7 +110,7 @@ You can download it by clicking the link below. Download a version that meets yo
 |Puzzle|Video|Inscription|
 | :---:  | :---:  | :---:  |
 | Electric Room | ![Electric Room](https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b)| You have to restart the electricity to activate the system by connection about sender&receiver.
-| Control Room | <img src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" alt="TEST" width="300px" height="140px"></img> | You can flush the water which sinked the storage.
+| Control Room | ![Control Room](https://github.com/haddol7/The-Last-Job/assets/64568235/aa8a65db-f721-47f5-90d2-eacde661c7ff) | You can flush the water which sinked the storage.
 | Mechanical Room | ![Mechanical Room](https://github.com/haddol7/The-Last-Job/assets/64568235/eab562cd-2b85-4cf6-9bd1-5f15d4ffa82a) | You can stablize the water pump pressure by combination of the lever  
 | Storage | ![Storage](https://github.com/haddol7/The-Last-Job/assets/64568235/630da2a1-d230-45b6-b6a9-1e9f6e6b0b05) | Master Battery source is placed in the storage to shut down the nucelear facility. 
 | Restarea | ![RestArea](https://github.com/haddol7/The-Last-Job/assets/64568235/a0ec9d11-b742-40c1-89c1-b8bf392ddad6) | You can get some items which you need for survive.
