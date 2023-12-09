@@ -1,18 +1,4 @@
-<!--
-    1. About this game
-    2. How to download(zip or git clone) 방식 설명
-    3. 대략적인 게임 방식 설명( we made 3d 잠입게임 어쩌고)
-    4. 서사적 배경
-    5. 플레이어 소개(설정)
-    6. 적 소개 
-    7. 조작키 설명(움직임, 투척 요소, 불안감 요소, 필터요소, 가이거 계수기 transition, 로봇 의심 요소, 로봇 발견 요소, gif로 올리기)
-    8. 인 게임 사진 예쁜거 컷 몇 개 넣고
-    9. 오른쪽 상단에 유튜브 영상 링크 올리기
--->
-
 ## 2023 KHU Game Engine Basics Team 4
-
-***
 <div align="center"> 
     
 # The Last Job
@@ -20,25 +6,22 @@
 
 </div>
 
-
-***
 <div align="center"> 
-    
+
+***    
 ## Index
 
 </div>
 
-
-
-  #### 1. [About This Game](#1-about-this-game)
-  #### 2. [How to download](#2-how-to-download)
-  #### 3. [How to play](#3-how-to-play)
-  #### 4. [Preview](#4-Preview)
-  #### 5. [Cut Scene](#5-Cut-Scene)
-  #### 6. [Credit](#6-Credit)
+  #### 1. [About This Game](#1-about-this-game-1)
+  #### 2. [How to download](#2-how-to-download-1)
+  #### 3. [How to play](#3-how-to-play-1)
+  #### 4. [Preview](#4-preview-1)
+  #### 5. [ScreenShot](#5-screenshot-1)
+  #### 6. [Credit](#6-credit-1)
 
 ***
-<div align="center"> 
+<div align="center">
 
 ## 1. About this game
 
@@ -75,21 +58,21 @@ You can download it by clicking the link below. Download a version that meets yo
 
 ### Download High Quality Version
 
-* [DOWNLOAD][externallink]
+* [DOWNLOAD][externallink] (4.9GB)
 
  [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ***
 
 ### Download Middle Quality Version
 
-* [DOWNLOAD][externallink]
+* [DOWNLOAD][externallink] 
 
  [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 ***
 
 ### Download Low Quality Version
 
-* [DOWNLOAD][externallink]
+* [DOWNLOAD][externallink] (4.7GB)
 
  [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
