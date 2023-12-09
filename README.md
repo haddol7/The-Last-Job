@@ -142,9 +142,12 @@ You can watch the preview by clicking the link below.
 ![HighresScreenshot00000](https://github.com/haddol7/The-Last-Job/assets/80435250/54ee48f5-2e81-41fe-a108-cd6324c01a6b)
 ![1](https://github.com/haddol7/The-Last-Job/assets/80435250/5165e4b7-49f1-4221-9eb3-55b4179c50a3)
 ![4](https://github.com/haddol7/The-Last-Job/assets/80435250/50122b0a-2b69-4941-b5b8-a75d9490480e)
+![HighresScreenshot00006](https://github.com/haddol7/The-Last-Job/assets/80435250/f752e564-bed1-4756-b2fb-b7f0e42c97ff)
+![HighresScreenshot00007](https://github.com/haddol7/The-Last-Job/assets/80435250/1c4e8680-ed28-4f5c-bfa4-5b9f30fea33a)
 ![5](https://github.com/haddol7/The-Last-Job/assets/80435250/6812568c-a23b-4097-8c58-6353faaa6e52)
 ![6](https://github.com/haddol7/The-Last-Job/assets/80435250/adca4072-76d8-4596-b380-d3373d135017)
 ![3](https://github.com/haddol7/The-Last-Job/assets/80435250/e8db924d-4cc8-41bb-ab0c-0ac056cc7876)
+
 
 
 ***
