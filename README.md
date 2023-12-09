@@ -156,10 +156,12 @@ You can watch the preview by clicking the link below.
 
 </div>
 
-<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1000">
-<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1000">
-<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1000">
-<img src="https://dropinblog.net/34244460/files/featured/42451850_disaster_cover_002_out.jpg" alt="대문짝만한로고" width="1000" height="1000">
+![HighresScreenshot00000](https://github.com/haddol7/The-Last-Job/assets/80435250/54ee48f5-2e81-41fe-a108-cd6324c01a6b)
+![1](https://github.com/haddol7/The-Last-Job/assets/80435250/5165e4b7-49f1-4221-9eb3-55b4179c50a3)
+![4](https://github.com/haddol7/The-Last-Job/assets/80435250/50122b0a-2b69-4941-b5b8-a75d9490480e)
+![5](https://github.com/haddol7/The-Last-Job/assets/80435250/6812568c-a23b-4097-8c58-6353faaa6e52)
+![6](https://github.com/haddol7/The-Last-Job/assets/80435250/adca4072-76d8-4596-b380-d3373d135017)
+![3](https://github.com/haddol7/The-Last-Job/assets/80435250/e8db924d-4cc8-41bb-ab0c-0ac056cc7876)
 
 
 ***
