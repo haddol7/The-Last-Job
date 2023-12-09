@@ -60,7 +60,7 @@ You can download it by clicking the link below. Download a version that meets yo
 
 * [DOWNLOAD][externallink] (4.9GB)
 
- [externallink]: https://drive.google.com/file/d/1K2q6YFXpTWRrWldOGsUHfTuuF7l_6iP3/view?usp=drive_link
+ [externallink]: https://drive.google.com/file/d/1AQ9QKTvtI89i2wXvd2Ra6T2L7fDs3cAl/view?usp=sharing
 ***
 
 ### Download Middle Quality Version
