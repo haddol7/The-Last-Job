@@ -110,9 +110,9 @@ You can watch the preview by clicking the link below.
 
 ### [watch Preview][externallink]
 
-</div>
+[externallink]: https://www.youtube.com/watch?v=dw-cw-3HdYo
 
- [externallink]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+</div>
 
 
 ***
@@ -149,5 +149,3 @@ These are people who made our game project.
  * __Muhamad Adlan Bin Kamisan(محمد عدلن بن كاميسن)__ -  AI System, Map Edit, Puzzle editor
  * __Dagyeong Jeon(전다경)__ -  Game System, Sub System, UI, Core Developer
  * __Daejin Ha(하대진)__  - VFX, Map Edit, Graphics, Visualization editor
-
-
