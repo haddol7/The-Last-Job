@@ -4,6 +4,7 @@
 # The Last Job
 ![1233](https://github.com/haddol7/The-Last-Job/assets/80435250/6245d33d-d094-41f4-964d-d7fe1cc4fd89)
 
+**ver 1.0 (12/10 00:00 last fixed)**
 </div>
 
 <div align="center"> 
@@ -39,7 +40,7 @@
 > 
 > You are one of the agents who has volunteered to solve this situation, as a researcher who once participated in the design of the complex.
 >
-> Solve the given missions to retrieve safety, and escape with secure.
+> ***Solve the given missions to retrieve safety, and escape with secure.***
 
 </div>
     
@@ -54,7 +55,7 @@
 You can download it by clicking the link below. Download a version that meets your computer's specifications.
 
 
-[DOWNLOAD][externallink] (4.9GB)
+**[DOWNLOAD][externallink] (4.9GB)**
 
 [externallink]: https://drive.google.com/file/d/1AQ9QKTvtI89i2wXvd2Ra6T2L7fDs3cAl/view?usp=sharing
 
@@ -68,9 +69,10 @@ You can download it by clicking the link below. Download a version that meets yo
 
 |Control|Video|Inscription|
 | :---:  | :---:  | :---:  |
-| Movement | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/0acacdae-8494-41bb-a905-3e9052f526d1" width = "500" height = "250"> | You can control your player by 'WASD', SpaceBar, Shift, Ctrl, And Mouse movement.
-| Giger Check | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/10a71239-5fad-48f7-9093-c31912c94fd0" width = "500" height = "250"> | You can check the level of the radiation of the zone which you currently stand.
-| Throwing Objects | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can thorw your Emp that you have to neutralize ememy or grab rock and throw to make some interruption.
+| Movement <br><br>**[W][A][S][D]<br>[Space]<br>[Ctrl]**| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/0acacdae-8494-41bb-a905-3e9052f526d1" width = "500" height = "250"> | You can control your player by 'WASD', SpaceBar, Shift, Ctrl, And Mouse movement.
+| Giger Check <br><br>**[TAB]** <br> to toggle| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/10a71239-5fad-48f7-9093-c31912c94fd0" width = "500" height = "250"> | You can check the level of the radiation of the zone which you currently stand.
+| Throwing Objects <br><br>**[Mouse Wheel]<br>+<br> [Right click] <br> <br>[E] : Pick a rock** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can thorw your Emp that you have to neutralize ememy or grab rock and throw to make some interruption.
+| Interaction <br><br>**[F]** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You can interact various objects to progress
 
 ### Player Sub System
 |Parameters|Video|Inscription|
