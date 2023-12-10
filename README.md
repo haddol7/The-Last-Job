@@ -28,7 +28,7 @@
 
 </div>
 
-### Breif Game Story And System
+### Brief Game Story And System
 
 <div align="center"> 
 
@@ -67,37 +67,37 @@ You can download it by clicking the link below. Download a version that meets yo
 
 ### Player Control
 
-|Control|Video|Inscription|
+|Control|Video|Description|
 | :---:  | :---:  | :---:  |
 | Movement <br><br>**[W][A][S][D]<br>[Space]<br>[Ctrl]**| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/0acacdae-8494-41bb-a905-3e9052f526d1" width = "500" height = "250"> | You can control your player by 'WASD', SpaceBar, Shift, Ctrl, And Mouse movement.
 | Giger Check <br><br>**[TAB]** <br> to toggle| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/10a71239-5fad-48f7-9093-c31912c94fd0" width = "500" height = "250"> | You can check the level of the radiation of the zone which you currently stand.
-| Throwing Objects <br><br>**[Mouse Wheel]<br>+<br> [Right click] <br> <br>[E] : Pick a rock** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can thorw your Emp that you have to neutralize ememy or grab rock and throw to make some interruption.
-| Interaction <br><br>**[F]** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You can interact various objects to progress
+| Throwing Objects <br><br>**[Mouse Wheel]<br>+<br> [Right click] <br> <br>[E] : Pick a rock** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can throw your Emp that you have to neutralize ememy or grab rock and throw to make some distraction.
+| Interaction <br><br>**[F]** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You can interact with various objects to progress
 
 ### Player Sub System
-|Parameters|Video|Inscription|
+|Parameters|Video|Description|
 | :---:  | :---:  | :---:  |
 | Radioactive Level | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/98b17a80-f956-4b78-9efa-a6485e3b5e77" width = "500" height = "250"> | You can check your radiation level by pressing 'Tab'. It pops out the Giger Counter on your hand
-| Anxiety | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/6533d701-d1d4-4af8-a96c-0de6c6b298ca" width = "500" height = "250"> | If you check Your giger counter , it makes your anxiety higher according to the level of the radiation level which disturb your sight and movement  
-| Stamina | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/ae777675-aeba-44d9-926f-bc313cb2d959" width = "500" height = "250"> | If you press shift to run, the stamina will decrease that it shows to your UI Screen.
-| Filter | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/876a1217-c4b9-4a00-8526-14ef10b34cb8" width = "500" height = "250"> | It will Decrease the level dynamically of which you stay on the different radiation level. (Game over if you loss your filter entirly)
+| Anxiety | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/6533d701-d1d4-4af8-a96c-0de6c6b298ca" width = "500" height = "250"> | If you check your giger counter , it makes your anxiety higher according to the level of the radiation level which disturb your sight and movement  
+| Stamina | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/ae777675-aeba-44d9-926f-bc313cb2d959" width = "500" height = "250"> | If you press shift to run, the stamina will decrease just like on the UI Screen.
+| Filter | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/876a1217-c4b9-4a00-8526-14ef10b34cb8" width = "500" height = "250"> | It will decrease the filter dynamically based on different radiation level you are in. (Game over if you loss your filter entirely)
 
-### Threating System
-|State|Video|Inscription|
+### Threatening System
+|State|Video|Description|
 | :---:  | :---:  | :---:  |
-| Suspicious | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/24607089-695e-4a9a-9edc-ab27ddc918d7" width = "500" height = "250"> | If the enemy has visualiation about player or hearing noise, it makes it suspecious about the situation and inspect to the area which the noise came from.
-| Detected   (Chasing) | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/b2367f48-2831-4f06-920e-f2ea6401f504" width = "500" height = "250"> | If the suspicious state maintained about certain time, it will change to Chasing mode and follows the player to eleminate.
-|    Get Caught    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7493192-e6a4-4dae-b464-7cf9e24a9362" width = "500" height = "250"> | If you get caught, it will knock down and gameover.
-|    Filter Death    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/7e40ff76-c5ff-442a-a105-1a561f682458" width = "500" height = "250"> | If you exhausted your filter, you would be fall in death by few second.
+| Suspicious | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/24607089-695e-4a9a-9edc-ab27ddc918d7" width = "500" height = "250"> | If the enemy has player in sight or hear some noise, it will become suspicious and inspect area where the noise came from.
+| Detected   (Chasing) | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/b2367f48-2831-4f06-920e-f2ea6401f504" width = "500" height = "250"> | If the suspicious state maintained for certain amount of time, it will change to Chasing mode and follows the player to eliminate.
+|    Get Caught    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7493192-e6a4-4dae-b464-7cf9e24a9362" width = "500" height = "250"> | If you get caught, you will get knock down and gameover.
+|    Filter Death    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/7e40ff76-c5ff-442a-a105-1a561f682458" width = "500" height = "250"> | If you exhausted all of your filter, you will fall to your death.
 
 ### Target Object(Puzzle System)
-|Puzzle|Video|Inscription|
+|Puzzle|Video|Description|
 | :---:  | :---:  | :---:  |
-| Electric Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You have to restart the electricity to activate the system by connection about sender&receiver.
-| Control Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/aa8a65db-f721-47f5-90d2-eacde661c7ff" width = "500" height = "250"> | You can flush the water which sinked the storage.
-| Mechanical Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/eab562cd-2b85-4cf6-9bd1-5f15d4ffa82a" width = "500" height = "250"> | You can stablize the water pump pressure by combination of the lever  
-| Storage | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/630da2a1-d230-45b6-b6a9-1e9f6e6b0b05" width = "500" height = "250"> | Master Battery source is placed in the storage to shut down the nucelear facility. 
-| Restarea | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/a0ec9d11-b742-40c1-89c1-b8bf392ddad6" width = "500" height = "250"> | You can get some items which you need for survive.
+| Electric Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You have to restart the electricity to activate the system by connection using lazer sender & receiver.
+| Control Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/aa8a65db-f721-47f5-90d2-eacde661c7ff" width = "500" height = "250"> | You can flush the water which flood the storage.
+| Mechanical Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/eab562cd-2b85-4cf6-9bd1-5f15d4ffa82a" width = "500" height = "250"> | You can stablize the water pump pressure through combination of the lever  
+| Storage | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/630da2a1-d230-45b6-b6a9-1e9f6e6b0b05" width = "500" height = "250"> | Master Battery Source is placed in the storage to shut down the nuclear facility. 
+| Rest Area | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/a0ec9d11-b742-40c1-89c1-b8bf392ddad6" width = "500" height = "250"> | You can get some items which you need for survive.
 
 ***
 <div align="center"> 
