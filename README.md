@@ -69,17 +69,17 @@ You can download it by clicking the link below. Download a version that meets yo
 
 |Control|Video|Description|
 | :---:  | :---:  | :---:  |
-| Movement <br><br>**[W][A][S][D]<br>[Space]<br>[Ctrl]**| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/0acacdae-8494-41bb-a905-3e9052f526d1" width = "500" height = "250"> | You can control your player by 'WASD', SpaceBar, Shift, Ctrl, And Mouse movement.
-| Giger Check <br><br>**[TAB]** <br> to toggle| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/10a71239-5fad-48f7-9093-c31912c94fd0" width = "500" height = "250"> | You can check the level of the radiation of the zone which you currently stand.
-| Throwing Objects <br><br>**[Mouse Wheel]<br>+<br> [Right click] <br> <br>[E] : Pick a rock** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can throw your Emp that you have to neutralize ememy or grab rock and throw to make some distraction.
-| Interaction <br><br>**[F]** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You can interact with various objects to progress
+| Movement <br><br>`W` `A` `S` `D`<br>`Spacebar`<br>`shift`<br>`Ctrl`| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/0acacdae-8494-41bb-a905-3e9052f526d1" width = "500" height = "250"> | You can control your player by `WASD`, `SpaceBar`, `Shift`, `Ctrl`, And `Mouse` movement.
+| Giger Check <br><br>**`TAB`** <br> to toggle| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/10a71239-5fad-48f7-9093-c31912c94fd0" width = "500" height = "250"> | You can check the level of the radiation of the zone which you currently stand.
+| Throwing Objects <br><br>**`Mouse Wheel`<br>+<br> `Right click` <br> <br>`E` : Pick a rock** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can throw your Emp that you have to neutralize ememy or grab rock and throw to make some distraction.
+| Interaction <br><br>**`F`** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You can interact with various objects to progress
 
 ### Player Sub System
 |Parameters|Video|Description|
 | :---:  | :---:  | :---:  |
-| Radioactive Level | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/98b17a80-f956-4b78-9efa-a6485e3b5e77" width = "500" height = "250"> | You can check your radiation level by pressing 'Tab'. It pops out the Giger Counter on your hand
-| Anxiety | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/6533d701-d1d4-4af8-a96c-0de6c6b298ca" width = "500" height = "250"> | If you check your giger counter , it makes your anxiety higher according to the level of the radiation level which disturb your sight and movement  
-| Stamina | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/ae777675-aeba-44d9-926f-bc313cb2d959" width = "500" height = "250"> | If you press shift to run, the stamina will decrease just like on the UI Screen.
+| Radioactive Level | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/98b17a80-f956-4b78-9efa-a6485e3b5e77" width = "500" height = "250"> | You can check your radiation level by pressing `Tab`. It pops out the Giger Counter on your hand
+| Anxiety | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/6533d701-d1d4-4af8-a96c-0de6c6b298ca" width = "500" height = "250"> | If you check your giger counter , it makes your anxiety higher according to the level of the radiation level which disturb your sight and movement. You can also decrease the anxiety level be pressing `ctrl` to crouch.
+| Stamina | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/ae777675-aeba-44d9-926f-bc313cb2d959" width = "500" height = "250"> | If you press `Lshift` to run, the stamina will decrease just like on the UI Screen.
 | Filter | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/876a1217-c4b9-4a00-8526-14ef10b34cb8" width = "500" height = "250"> | It will decrease the filter dynamically based on different radiation level you are in. (Game over if you loss your filter entirely)
 
 ### Threatening System
