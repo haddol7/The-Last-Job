@@ -57,7 +57,7 @@ You can download it by clicking the link below. Download a version that meets yo
 
 **[DOWNLOAD][externallink] (4.9GB)**
 
-[externallink]: https://drive.google.com/file/d/1AQ9QKTvtI89i2wXvd2Ra6T2L7fDs3cAl/view?usp=sharing
+[externallink]: https://drive.google.com/file/d/1kWPuSw4MnzSXaEpJ3keQPB6bDpXcMOvJ/view?usp=sharing
 
 </div>
 
