@@ -46,7 +46,7 @@
     
 ### Notes/Tips
 > * You don't belong to the army, the robots would not identify you as an ally. Avoid or neutralize them.
-> * You have access to most of core facilities of the complex. Try utilizing inner facilities if you find some.
+> * You have access to most of core facilities of the complex. Try utilizing them if you find some.
 > * Radioactive fallout spreads throughout the sector. Check the geiger counter as the magnitude varies from area to area.
 
 <div align="center"> 
@@ -71,7 +71,7 @@ You can download it by clicking the link below. Download a version that meets yo
 | :---:  | :---:  | :---:  |
 | Movement <br><br>`W` `A` `S` `D`<br>`Spacebar`<br>`shift`<br>`Ctrl`| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/0acacdae-8494-41bb-a905-3e9052f526d1" width = "500" height = "250"> | You can control your player by `WASD`, `SpaceBar`, `Shift`, `Ctrl`, And `Mouse`.
 | Geiger Check <br><br>**`TAB`** <br> to toggle| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/10a71239-5fad-48f7-9093-c31912c94fd0" width = "500" height = "250"> | You can check the level of the radiation magnitude where you are currently standing.
-| Throwing Objects <br><br>**`Mouse Wheel`<br>+<br> `Right click` <br> <br>`E` : Pick a stone** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can throw certain objects to distract or neutralize enmeies.
+| Throwing Objects <br><br>**`Right click`<br>+<br> `Left click` <br> <br>`E` : Pick a stone** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can throw certain objects to distract or neutralize enmeies.
 | Interaction <br><br>**`F`** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You can interact with various objects in different ways.
 
 ### Player Sub System
@@ -80,13 +80,13 @@ You can download it by clicking the link below. Download a version that meets yo
 | Radiation Level | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/98b17a80-f956-4b78-9efa-a6485e3b5e77" width = "500" height = "250"> | You can check your radiation level by pressing `Tab`. It affects how fast your filters will wear out.
 | Anxiety | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/6533d701-d1d4-4af8-a96c-0de6c6b298ca" width = "500" height = "250"> | The invisible fallout provokes fear of death. Your vision might be disturbed as you are wandering in dangerous area. Stop and take some relief by pressing `Lctrl` to crouch.
 | Stamina | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/ae777675-aeba-44d9-926f-bc313cb2d959" width = "500" height = "250"> | Press `Lshift` to run. 
-| Filter | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/876a1217-c4b9-4a00-8526-14ef10b34cb8" width = "500" height = "250"> | The filters will protect you from the harzardous environment. If you don't have them anymore, soon your body will collapse down.
+| Filter | <img src="https://github.com/haddol7/The-Last-Job/assets/87187655/efb6ff98-9df3-4608-902c-7dedc75c4ef7" width = "500" height = "250"> | The filters protect you from the harzardous environment. If you don't have them anymore, soon your body will collapse down.
 
 ### Threatening System
 |State|Video|Description|
 | :---:  | :---:  | :---:  |
-| Suspicious | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/24607089-695e-4a9a-9edc-ab27ddc918d7" width = "500" height = "250"> | If the robots receive visual or auditory stimulation, it will go inspect the point of the stimulation source and try identifying whether there are enemy or not.
-| Detected   (Chasing) | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/b2367f48-2831-4f06-920e-f2ea6401f504" width = "500" height = "250"> | If the identifying process completes, it will chase its identified enemy.
+| Suspicious | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/24607089-695e-4a9a-9edc-ab27ddc918d7" width = "500" height = "250"> | If a robot receives visual or auditory stimulation, it will go inspect the source and try identifying whether there is enemy or not.
+| Detected   (Chasing) | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/b2367f48-2831-4f06-920e-f2ea6401f504" width = "500" height = "250"> | If the identifying process completes, it will chase its enemy.
 |    Caught    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7493192-e6a4-4dae-b464-7cf9e24a9362" width = "500" height = "250"> | Stay away from the robots, or they will smash your head.
 |    Death by exposure    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/7e40ff76-c5ff-442a-a105-1a561f682458" width = "500" height = "250"> | Escape before all the filters wear out. 
 
@@ -94,9 +94,9 @@ You can download it by clicking the link below. Download a version that meets yo
 |Puzzle|Video|Description|
 | :---:  | :---:  | :---:  |
 | Electrical Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | Power suppliment on upstairs has stopped. Find the way to convey electricity from 1F to 2F.
-| Control Center | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/aa8a65db-f721-47f5-90d2-eacde661c7ff" width = "500" height = "250"> | In control center, you can try activating certain apparatus to do what you need currently.
-| Water Facility Controls | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/eab562cd-2b85-4cf6-9bd1-5f15d4ffa82a" width = "500" height = "250"> | There are levers which manipulates the pressure of the water pump in different amount.   
-| Warehouse | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/630da2a1-d230-45b6-b6a9-1e9f6e6b0b05" width = "500" height = "250"> | Emergency battery source is placed on a cart, so you can easily pull or push it to deliver to the main reactor controller.
+| Control Center | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/aa8a65db-f721-47f5-90d2-eacde661c7ff" width = "500" height = "250"> | In the control center, you can try activating certain apparatus to do what you need currently.
+| Water Facility Controls | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/eab562cd-2b85-4cf6-9bd1-5f15d4ffa82a" width = "500" height = "250"> | There are levers which manipulate the pressure of the water pump in different amount.   
+| Warehouse | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/630da2a1-d230-45b6-b6a9-1e9f6e6b0b05" width = "500" height = "250"> | Emergency battery source is placed on a cart, so you can easily push or pull it to deliver to the main reactor controller.
 
 ***
 <div align="center"> 
