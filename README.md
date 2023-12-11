@@ -4,7 +4,7 @@
 # The Last Job
 ![1233](https://github.com/haddol7/The-Last-Job/assets/80435250/6245d33d-d094-41f4-964d-d7fe1cc4fd89)
 
-**ver 1.0 (12/10 00:00 last fixed)**
+**ver 1.1 (12/12 03:00 last fixed)**
 </div>
 
 <div align="center"> 
@@ -55,7 +55,7 @@
 You can download it by clicking the link below. Download a version that meets your computer's specifications.
 
 
-**[DOWNLOAD][externallink] (4.9GB)**
+**[DOWNLOAD][externallink] (4.8GB)**
 
 [externallink]: https://drive.google.com/file/d/1kWPuSw4MnzSXaEpJ3keQPB6bDpXcMOvJ/view?usp=sharing
 
