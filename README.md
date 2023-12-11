@@ -71,7 +71,7 @@ You can download it by clicking the link below. Download a version that meets yo
 | :---:  | :---:  | :---:  |
 | Movement <br><br>`W` `A` `S` `D`<br>`Spacebar`<br>`shift`<br>`Ctrl`| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/0acacdae-8494-41bb-a905-3e9052f526d1" width = "500" height = "250"> | You can control your player by `WASD`, `SpaceBar`, `Shift`, `Ctrl`, And `Mouse`.
 | Geiger Check <br><br>**`TAB`** <br> to toggle| <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/10a71239-5fad-48f7-9093-c31912c94fd0" width = "500" height = "250"> | You can check the level of the radiation magnitude where you are currently standing.
-| Throwing Objects <br><br>**`Mouse Wheel`<br>+<br> `Right click` <br> <br>`E` : Pick a rock** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can throw certain objects to distract or neutralize enmeies.
+| Throwing Objects <br><br>**`Mouse Wheel`<br>+<br> `Right click` <br> <br>`E` : Pick a stone** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7a7c0d9-0db3-4260-8ac0-2afc61df460d" width = "500" height = "250"> | You can throw certain objects to distract or neutralize enmeies.
 | Interaction <br><br>**`F`** | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | You can interact with various objects in different ways.
 
 ### Player Sub System
@@ -90,13 +90,13 @@ You can download it by clicking the link below. Download a version that meets yo
 |    Caught    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/c7493192-e6a4-4dae-b464-7cf9e24a9362" width = "500" height = "250"> | Stay away from the robots, or they will smash your head.
 |    Death by exposure    | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/7e40ff76-c5ff-442a-a105-1a561f682458" width = "500" height = "250"> | Escape before all the filters wear out. 
 
-### Target Object(Puzzle System)
+### Target Object(Puzzles)
 |Puzzle|Video|Description|
 | :---:  | :---:  | :---:  |
 | Electrical Room | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/dd27851b-8fc4-49ea-937c-4a027b43908b" width = "500" height = "250"> | Power suppliment on upstairs has stopped. Find the way to convey electricity from 1F to 2F.
-| Control Center | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/aa8a65db-f721-47f5-90d2-eacde661c7ff" width = "500" height = "250"> | `You can flush the water which flood the storage.`
-| Water Facility Controls | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/eab562cd-2b85-4cf6-9bd1-5f15d4ffa82a" width = "500" height = "250"> | `You can stablize the water pump pressure through combination of the lever`  
-| Warehouse | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/630da2a1-d230-45b6-b6a9-1e9f6e6b0b05" width = "500" height = "250"> | `Master Battery Source is placed in the storage to shut down the nuclear facility.` 
+| Control Center | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/aa8a65db-f721-47f5-90d2-eacde661c7ff" width = "500" height = "250"> | In control center, you can try activating certain apparatus to do what you need currently.
+| Water Facility Controls | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/eab562cd-2b85-4cf6-9bd1-5f15d4ffa82a" width = "500" height = "250"> | There are levers which manipulates the pressure of the water pump in different amount.   
+| Warehouse | <img src="https://github.com/haddol7/The-Last-Job/assets/64568235/630da2a1-d230-45b6-b6a9-1e9f6e6b0b05" width = "500" height = "250"> | Emergency battery source is placed on a cart, so you can easily pull or push it to deliver to the main reactor controller.
 
 ***
 <div align="center"> 
@@ -141,8 +141,8 @@ You can download it by clicking the link below. Download a version that meets yo
 These are people who made our game project.
 </div>
 
- * __Kunwoo Kim(김건우)__  - SFX, Map Edit, Detail Test ,Orchestrator
- * __Jihoo kim(김지후)__  - Game System, Map Edit, Puzzle editor
- * __Muhamad Adlan Bin Kamisan(محمد عدلن بن كاميسن)__ -  AI System, Map Edit, Puzzle editor
- * __Dagyeong Jeon(전다경)__ -  Game System, Sub System, UI, Core Developer
- * __Daejin Ha(하대진)__  - VFX, Map Edit, Graphics, Visualization editor
+ * __Kunwoo Kim(김건우)__  - Coordinator, Sound Lead., Game design, Level design
+ * __Jihoo kim(김지후)__  - Puzzle design Lead.,  Level design, Assets&Modeling
+ * __Muhamad Adlan Bin Kamisan(محمد عدلن بن كاميسن)__ -  AI Lead., Puzzle design 
+ * __Dagyeong Jeon(전다경)__ -  Game design, Programming Lead., Animation, UI, Visual effects
+ * __Daejin Ha(하대진)__  - Level design Lead, Visual effects
