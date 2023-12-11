@@ -146,3 +146,9 @@ These are people who made our game project.
  * __Muhamad Adlan Bin Kamisan(محمد عدلن بن كاميسن)__ -  AI Lead., Puzzle design 
  * __Dagyeong Jeon(전다경)__ -  Game design, Programming Lead., Animation, UI, Visual effects
  * __Daejin Ha(하대진)__  - Level design Lead, Visual effects
+
+ ### Development Environment
+- **Game Engine:** Unreal Engine 5.2.1
+- **Version Control System:** Perforce Helix P4V
+- **Start Date:** 19/09/2023
+- **End Date:** 10/12/2023
